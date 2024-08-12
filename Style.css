@@ -1,0 +1,60 @@
+body{
+    background-image: url("https://images.pexels.com/photos/4033634/pexels-photo-4033634.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color:darksalmon;
+}
+h1:hover{
+    text-decoration: underline;
+    color:antiquewhite;
+}
+
+.div{
+    height: 300px;
+    width: 200px;
+    border: 1px solid rgb(143, 27, 27);
+    background-color:darksalmon;
+    float: left;
+    margin-left: 170px;
+    margin-top: 70px;
+    border-radius: 30px;
+
+}
+.title{
+    text-align: center;
+    font-size: 20px;
+}
+
+.menue{
+    width: 90px;
+    height: 90px;
+    border: 2px solid black;
+border-radius: 50%;
+text-align: center;
+margin-left: 50px;
+margin-top: 30px;
+
+
+
+
+
+}
+
+.prag{
+    text-align: center;
+    margin-top: 20px;
+}
+.div:hover{
+background-color:antiquewhite;
+
+}
+ 
+input{
+    margin-left: 60px;
+    margin-top: 40px;
+}
